@@ -1,0 +1,30 @@
+﻿{
+  "InstalledPluginNames": [
+    "Obsolete field, using only for compatibility"
+  ],
+  "InstalledPlugins": [
+    {
+      "SystemName": "DiscountRequirement.MustBeAssignedToCustomerRole",
+      "Version": "4.80.1"
+    },
+    {
+      "SystemName": "CurrencyExchange.ECB",
+      "Version": "4.80.1"
+    },
+    {
+      "SystemName": "ExternalAuth.Facebook",
+      "Version": "4.80.1"
+    },
+    {
+      "SystemName": "Misc.Brevo",
+      "Version": "4.80.2"
+    },
+    {
+      "SystemName": "Misc.WebApi.Frontend",
+      "Version": "4.80.1"
+    }
+  ],
+  "PluginNamesToUninstall": [],
+  "PluginNamesToDelete": [],
+  "PluginNamesToInstall": []
+}
